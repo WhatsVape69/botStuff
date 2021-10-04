@@ -24,9 +24,10 @@ function startBot() {
 	node your/bot/directory/here.js
 }
 ```
-3. In terminal run `source ~/.my_custom_commands.sh`
+3. In terminal run `source ~/.custom_bash_commandss.sh`
 4. In terminal run `startBot`
 5. Your bot should start automatically after that.
+6. Please note that you might need to run `source ~/.custom_bash_commandss.sh` everytime. Working on a fix
 # Linux:
 ```
 
